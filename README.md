@@ -2,7 +2,7 @@
 
 Hi! This site aims to be a portfolio of the myself and the work I created during my journey as a Full-Stack Web-Developer for public view.
 
-Alternately, as I am in my early stages of my career, there is a lack of projects. Therefore, I have used sample projects to show the function of this portfolio.
+Unfortunately, as I am in my early stages of my career, there is a lack of projects. Therefore, I have used sample projects to show the function of this portfolio.
 
 Below are images of the code and the results it produces:
 
